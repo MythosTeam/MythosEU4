@@ -74,7 +74,7 @@ dragonreign_culture_group = {
 			Corias Coruna Sarana Sarezza Sarias Saruna Pelana Pelezza Pelias Peluna Jaiana Jaiezza Jaiias Jaiuna Korana Korezza Korias Koruna
 		}
 		dynasty_names = {
-			Artherion Fukada 
+			Artherion Fukada Waterborn Fireborn Lightningborn Earthborn Iceborn Windborn Spaceborn Magicborn Woodborn Sandborn Lightborn Shadowborn
 		}
 	}
 }
