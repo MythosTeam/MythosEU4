@@ -29,7 +29,6 @@ monarch_names = {
 	"Kanro #2" = -5
 	"Yavulu #2" = -10
 	"Cositori #1" = -15
-	"
 	}
 
 ship_names = {
