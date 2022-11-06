@@ -62,4 +62,19 @@ dragonreign_culture_group = {
 			Opalaxe Leathercoat Heftsword Longchin Bonechest Caveborn
 		}
 	}
+	drakken = { ###Terhanian Dragon - Drakken
+		primary = TH1 ###Terhana
+		male_names = {
+			Mordox Archron Aev Matsu Glacius Skallrown Drakis Derrow Ignius Gabon Darug Luka Dweur Kael Derrow Zenlau Sunlau Morlau Grimlau Sheirlau Vierchron Archgra Archlau Archchron Archrown Archrow
+			Morgra Morlau Morchron Morrown Morrow Matgra Matlau Matchron Matrown Matrow Glacgra Glaclau Glacchron Glacrown Glacrow Skallgra Skallau Skallchron Skallrow Drakgra Draklau Drakchron Drakrown
+			Drakrow Derrgra Derrlau Derrchron Derrown Gabgra Gablau Gabchron Gabrown Gabrow Dargra Darlau Darchron Darrown Darrow Lukgra Luklau Lukchron Lukrown Lukrow Dergra Derlau Derchron Derrown
+		}
+		female_names = {
+			Valdezza Val'shaaq Shale Saphroan Ellias Seilei Corusa Saruna Tiyha Pelus Jella Jaitos T'gra Korra Kaelia Veilana Valana Valias Valuna Saphana Saphezza Saphias Saphuna Ellana Elluna Corezza
+			Corias Coruna Sarana Sarezza Sarias Saruna Pelana Pelezza Pelias Peluna Jaiana Jaiezza Jaiias Jaiuna Korana Korezza Korias Koruna
+		}
+		dynasty_names = {
+			Artherion Fukada 
+		}
+	}
 }

@@ -1,0 +1,40 @@
+graphical_culture = westerngfx
+
+color = { 0 196 240 }
+
+revolutionary colors = { 3 1 3 }
+
+historical_idea_groups = {
+	economic_ideas
+	quality_ideas
+	exploration_ideas
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	quantity_ideas
+	administrative_ideas
+}
+
+monarch_names = {
+}
+
+ship_names = {
+	Grurist Rerdod Tarruist Dykoit Gegurist Aga Brindun Groghenurist Jondurist Gieghireiss Uza Ximair Gimog Akurist Qeombag Jydurist Jiembess Briryntarth Yturist Matiurist Fryvrog Frizurist
+			Kidurist Chundrym Jelburist Mydronat Morriedun Jyurist Xyrvanth Girrim Brokit Qirsurist Gamrys Zelidross Qezurross Nalrirrer Chynurist Mandrayd Ahurist Brurist Cahurist Durist Faurist 
+			Heurist Isturist Kelurist Leurist Melurist Naurist Ocurist Penturist Quinturist Rendurist Sindurist Tendurist Ulturist Vendurist Windurist Xurist Yaurist Zekdurist
+}
+
+army_names = {
+	"Val'shaaq's Ire"
+	"Mordox's Fury"
+	"Assault of Derrow"
+	"Glacius' Rebuke"
+	"Reilau's Strike"
+	"Drakken army of $PROVINCE$"
+	"Drakitsu's Storm"
+	"Claws of T'gra"
+}
+fleet_names = {
+	"Corusa's Grace"
+	"Jaitos' Fortune"
+}

@@ -1,2 +1,3 @@
 DRG = "countries/dragonreign.txt"
 DRV = "countries/dwarvenclans.txt"
+TH1 = "countries/terhana.txt"
