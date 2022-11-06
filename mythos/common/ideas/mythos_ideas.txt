@@ -65,7 +65,7 @@ drakken_ideas = {
 	}
 	drakken_ideas_4 = {
 		enforce_religion_cost = -0.25
-		warscore_Cost_vs_other_religion = -0.25
+		warscore_cost_vs_other_religion = -0.25
 	}
 	drakken_ideas_5 = {
 		accept_vassalization_reasons = 10
