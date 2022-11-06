@@ -38,3 +38,45 @@ dragon_ideas = {
 		cavalry_shock = 2
 	}
 }
+drakken_ideas = {
+	start = {
+		global_missionary_strength = 0.5
+		female_advisor_chance = 0.5
+		diplomatic_reputation = 1
+	}
+	bonus = {
+		institution_spread_from_true_faith = 0.25
+	}
+	trigger = {
+		tag = TH1
+	}
+	free = yes
+	drakken_ideas_1 = {
+		missionaries = 1
+		tolerance_own = 1
+	}
+	drakken_ideas_2 = {
+		prestige_per_development_from_conversion = 0.5
+		missionary_maintenance_cost = -0.1
+	}
+	drakken_ideas_3 = {
+		colonists = 1
+		native_uprising_chance = -0.25
+	}
+	drakken_ideas_4 = {
+		enforce_religion_cost = -0.25
+		warscore_Cost_vs_other_religion = -0.25
+	}
+	drakken_ideas_5 = {
+		accept_vassalization_reasons = 10
+		ae_impact = -0.1
+	}
+	drakken_ideas_6 = {
+		global_prosperity_growth = 0.1
+		administrative_efficiency = 0.1
+	}
+	drakken_ideas_7 = {
+		max_attrition = 2
+		local_hostile_attrition = 2
+	}
+}
