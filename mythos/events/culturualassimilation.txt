@@ -1,0 +1,46 @@
+namespace = culture_assimilation
+province_event = {
+	id = culture_assimilation.1
+	title = culture_assimilation.1.t
+	desc = culture_assimilation.1.d
+	trigger = {
+		random_core_province = {
+			limit = {
+				owned_by = DRG
+				AND = {
+					NOT = {
+						has_owner_accepted_culture = yes
+						nationalism = 1
+					}
+				}
+			}
+		}
+	}
+	immediate = {
+		hidden_effect = {
+			random_core_province = {
+				limit = {
+					owned_by = DRG
+					AND = {
+						NOT = {
+							has_owner_accepted_culture = yes
+							nationalism = 1
+						}
+					}
+				}
+				save_event_target_as = culture_target
+			}
+		}
+	}
+	mean_time_to_happen = {
+		days = 50
+		modifier = {
+			factor = 0.8
+			Not = { stability = 0 }
+		}
+	}
+	option = {
+		name = culture_assimilation.1.a
+		event_target:culture_target	= { change_culture = idromoi }
+	}
+}
