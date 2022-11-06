@@ -1,0 +1,65 @@
+dragonreign_culture_group = {
+	graphical_culture = westerngfx
+	
+	darastrix = { ###Dragon - Darastrix
+		primary = DRG ###Dragonreign
+		male_names = {
+					Medoth Celneth Keleth Mirsoth Rugarth Beroan Bessonth Kalinth Balor Beriel Alagor Relkor Malian Tavurth Erfolg Wruenele 
+			Kur Thevetat Grundle Rhindle Yorgle Kilgharrah Ormr Alklha Dahhak Ganj Kundrav Asdeev Rishtu Zigarun Imgig 
+			Ollipeist Sinach Cetus Ammut
+			Chrysophylax
+			Scatha Glorund Áttorsceaða Draca Eorðdraca Fýrdraca Lígdraca Lyftfloga Níðdraca Úhtfloga Gúþfloga Swilgeþ Wælgeuga
+			Blæst Brynewielm Heaðuwylm Sweoloþ Ádlég Byrne Brynewelm Wylm Lígbryne Teónlíg Bladesian Sweartfengtóþ Goldweard Goldwecg Seolfor
+			Beadurinc Beorn Beornwiga Cempa Cniht Cumbolwíga Dreng Dryhtguma Freca Gumrinc Gúðcyning Gúðfreca Gúðfremmend Gúðgelæca
+			Gúðmaga Gúðrinc Gúðwiga Heaðurinc Heoruwulf Ordwyga Óretmæcga Randhæbbend Cáfclifer Handspor Heofonflyht Áflyge Ánfloga Ícend Ícestre
+			Ánmédla Æsctír Éðelþrymm Héahþrymm Heofonþrymm Hréþ Tírfruma Þrymcyning Þrymwealdend Þrýþcyning Weorþmynd Weorþscipe Wuldor Blædgifa
+			Gefeá Gúþhréþ Árhwæt Hlísbæ Tírfæst
+		}
+		female_names = {
+					Telshir Cirnon Kela Mirsa Balash Berinil Alagash Verash Kelirth Tamenth Veron Dagahra Aithusa Hubar Omorka Tauthe Tehom 
+			Talatth Thamte Tiawath Tismet Tisalet Khubar Ayida
+			Gléd Líeg Swaðul Swol Wanfýr Wielm Bælblæse Bryneleóma Blase Lígýþ Blæcce Goldæht Goldléaf Réadgoldlæfer Smætegold Goldmáðum
+			Glengness Gebegylded Geágeolwed Fæted Goldbeorht Seolfor Cempestre Gúðcyst Fléotig Cáfictere Olifrung Clæwende Cláwende
+			Clyferfete Heofonbéacen Lyftwynn Ácennicge Byrðre Íecestre Módorlufu Sunucennicge Modoreynd Andetnes Andett Ellenmærðu
+			Godþrymnes Indryhtu Lof Mægenþrymnes Mægþblæd Mærþ Weorþmynt Íormærnes Ness Gemiclung Heáhþrymness Heahjjryrnrn Wuldrende
+		}
+		dynasty_names = {
+		Terrogoth Fylgara Psoic Vrakarin Schicithai Abroyea Yavulid Æsctír Íormærnes Olifrung Clæwende Cláwende
+			Clyferfete Heofonbéacen Lyftwynn Ácennicge Byrðre Íecestre Randhæbbend Cáfclifer Handspor Heofonflyht Áflyge Ánfloga Ícend Ícestre
+			Ánmédla Æsctír Éðelþrymm Héahþrymm Heofonþrymm Hréþ Tírfruma Þrymcyning
+		}
+	}
+	idromoi = { ###Draconic assimilated - Idromoi
+		primary = DRG ###Dragonreign
+		male_names = {
+			Grurist Rerdod Tarruist Dykoit Gegurist Aga Brindun Groghenurist Jondurist Gieghireiss Uza Ximair Gimog Akurist Qeombag Jydurist Jiembess Briryntarth Yturist Matiurist Fryvrog Frizurist
+			Kidurist Chundrym Jelburist Mydronat Morriedun Jyurist Xyrvanth Girrim Brokit Qirsurist Gamrys Zelidross Qezurross Nalrirrer Chynurist Mandrayd Ahurist Brurist Cahurist Durist Faurist 
+			Heurist Isturist Kelurist Leurist Melurist Naurist Ocurist Penturist Quinturist Rendurist Sindurist Tendurist Ulturist Vendurist Windurist Xurist Yaurist Zekdurist Tarnish
+			Arkath Aurelion Uldine Quipian Valens Zarren Cordelion
+		}
+		female_names = {
+			Aral Bundro Hizayrrinth Frymoaras Dytuphar Shendry Myanxok Drilkendellod Klimtinod Adalinda Aine Alina Chumana Chusi Lormungand Nuri Tanwen Kaida Tatsuo Tatsuya Uwabami Ryuurist Kanro
+			Iota Yavulu Cositori Dorvon Masambri Okrod Drostim Fordoldrix Telshir Marakan Hekdraegret Saborgit
+		}
+		dynasty_names = {
+			Terrogoth Fylgara Psoic Vrakarin Schicithai Abroyea "S'rit" Davon
+		}
+	}
+	dvergr = { ###Dwarven - Dvergr
+		###primary = DRV ###Dwarven Clans
+		male_names = {
+			Grarmead Hodrok Reingrem Hardrear Weraddac Sidmumlin Alfomdami Thegrouk Dosdruth Doureat Sighux Doughol Jaral Fograck Alfokrel Glorizmok Hoursil Motgrarlun Grazmam Jarheal Dhovaeck Mumumli
+			Kurfith Horratin Vamin Lolgeck Brovaen Azerlum Krakdrouth Asdrorli Barikdrouth Dwovroick Rakkum jokratum Derhaeg Doralir Damrouk Throsdrol Grosol Budul Brozerlug Nammin Noralgig Halmim 
+			Barivrumlir Erivromi Helgroth Grunoc Dassotum Dhodral Urist
+		}
+		female_names = {
+			Torendihilda Khouzzetain Dalonmaebena Bharmanelyn Skathamora Sabrogit Hekdraegret Daloldranelynn Houkelyn Grokhabela Yorbubelle Hethire Gibriwynn Kurdruoubena Lukkurika Grourseaginn
+			Jordraelydd Whurrouline Skodmeagrett Rurraetalin Urist
+		}
+		dynasty_names = {
+			Redgrog Whitforge Heavyhead Hillstone Shadowbraid Chaosbreaker Longmail Axeshoulder Redshield Fieryshoulder Smeltbender Magmahide Koboldmail Gravelbeard Bronzefoot Drakehood Frayminer
+			Bottleminer Mountainpike Onyxbraid Barbedgrip Forgeshaper Barbedmantle Barrelbuckle Storngmaul Ingotborn Darkbrew Orefall Earthbringer Grumblefeet Lavaheart Amerbrewer Oakbranch Koboldfury
+			Opalaxe Leathercoat Heftsword Longchin Bonechest Caveborn
+		}
+	}
+}

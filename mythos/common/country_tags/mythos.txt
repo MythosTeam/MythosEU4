@@ -1,0 +1,2 @@
+DRG = "countries/dragonreign.txt"
+DRV = "countries/dwarvenclans.txt"
