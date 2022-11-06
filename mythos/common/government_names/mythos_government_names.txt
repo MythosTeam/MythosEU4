@@ -1,0 +1,50 @@
+dragonreign_government_names = {
+	rank = {
+		1 = TYRANNY_OF_DRAGONS
+		2 = TYRANNY_OF_DRAGONS
+		3 = TYRANNY_OF_DRAGONS
+	}
+
+	ruler_male = {
+		1 = DRAGON_TYRANT
+		2 = DRAGON_TYRANT
+		3 = DRAGON_TYRANT
+	}
+
+	ruler_female = {
+		1 = DRAGON_TYRANT
+		2 = DRAGON_TYRANT
+		3 = DRAGON_TYRANT
+	}
+
+	consort_male = {
+		1 = DRAGON_TYRANT
+		2 = DRAGON_TYRANT
+		3 = DRAGON_TYRANT
+	}
+
+	consort_female = {
+		1 = DRAGON_TYRANT
+		2 = DRAGON_TYRANT
+		3 = DRAGON_TYRANT
+	}
+	
+	heir_male = {
+		1 = HEIR
+		2 = HEIR
+		3 = HEIR
+	}
+
+	heir_female = {
+		1 = HEIR_fem
+		2 = HEIR_fem
+		3 = HEIR_fem
+	}
+
+	trigger = {
+		OR = { 
+			has_reform = draconic_tyranny
+			has_reform = fading_tyranny
+		}
+	}
+}
