@@ -7,4 +7,4 @@ tags={
 }
 name="Mythos"
 supported_version="1.34.4"
-path="C:/Users/Kellen/Documents/Paradox Interactive/Europa Universalis IV/mod/mythos"
+path="mod/mythos"
