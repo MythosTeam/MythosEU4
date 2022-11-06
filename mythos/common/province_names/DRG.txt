@@ -39,7 +39,7 @@
 2605 = "Secwentar"
 2606 = "Tsishall"
 2620 = "Nann"
-4286 = "Kassandar"
+2486 = "Kassandar"
 4635 = "Taaiqi"
 4636 = "Chumni"
 4637 = "Zailroftar"
