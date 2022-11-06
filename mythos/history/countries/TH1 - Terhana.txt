@@ -1,0 +1,18 @@
+government = theocracy
+government_rank = 1
+primary_culture = drakken
+religion = norse_pagan_reformed
+technology_group = western
+capital = 898
+
+1435.11.11 = {
+	monarch = {
+		name = "Daiki"
+		dynasty = "Fukada"
+		culture = drakken
+		adm = 5
+		dip = 6
+		mil = 2
+		birth_date = 1415.10.7
+	}
+}
