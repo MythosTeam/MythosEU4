@@ -16,6 +16,20 @@ historical_idea_groups = {
 }
 
 monarch_names = {
+	"Tarnish #2" = 5
+	"Uldine #1" = 30
+	"Arkath #1" = 2
+	"Aurelion #1" = 15
+	"Quipian #1" = 10
+	"Valens #1" = 2
+	"Zarren #2" = 5
+	"Cordelion #2" = 5
+	"Davakonus #2" = 30
+	"Iota #2" = -30
+	"Kanro #2" = -5
+	"Yavulu #2" = -10
+	"Cositori #1" = -15
+	"
 	}
 
 ship_names = {
@@ -24,9 +38,21 @@ ship_names = {
 			Heurist Isturist Kelurist Leurist Melurist Naurist Ocurist Penturist Quinturist Rendurist Sindurist Tendurist Ulturist Vendurist Windurist Xurist Yaurist Zekdurist
 	}
 army_names = {
-	"Legatum $PROVINCE$"
-	"Babari $PROVINCE$"
+	"Angrimichdi Darastrix" #Army of Dragons
+	"Angrimichdiz Uldine" #Army of Uldine
+	"Legatiz Uldine" #Legatum of Uldine
+	"Legatiz Tarnish" #Legatum of Tarnish
+	"Legatiz Quipian" #Legatum of Quipian
+	"Legatiz Cordelion" #Legatum of Cordelion
+	"Barbariz Zarren" #Bararum of Zarren
+	"Legati $DYNASTY$"  #Legatum of Dynasty
+	"Legatim $PROVINCE$"  #Legatum of Pronvince
+	"Babarim $PROVINCECAPITAL$" #Barbarum of Province
+	"$PLAYER$ how did you run out of names" #lol, lmao
 	}
 fleet_names = {
-	"Kognari $PROVINCE$"
+	"Kognariz Iota" #Fleet of Iota
+	"Kognariz Lambda" #Fleet of Lambda
+	"Kognariz Yavulu" #Fleet of Yavulu
+	"Kognarim $PROVINCE$" #Fleet of Province
 	}
