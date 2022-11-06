@@ -78,7 +78,7 @@ draconic_tyranny = {
 	}
 }
 
-faded_tyranny = {
+fading_tyranny = {
 	icon = "draconic_tyranny"
 	allow_normal_conversion = no
 	potential = {
