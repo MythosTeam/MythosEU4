@@ -1,0 +1,159 @@
+draconic_tyranny = {
+	icon = "draconic_tyranny"
+	allow_normal_conversion = no
+	potential = {
+		OR = {
+			tag = DRG
+			AND = {
+				tag = DRG
+				NOT = { map_setup = map_setup_random }
+			}
+			AND = {
+				tag = DRV
+				NOT = { map_setup = map_setup_random }
+				OR = {
+					has_reform = draconic_tyranny
+					have_had_reform = draconic_tyranny
+					AND = {
+						is_hegemon_of_type = military_hegemon
+						development_in_provinces = {
+							value = 80
+							culture = darastrix
+						}
+					}
+				}
+			}
+			AND = {
+				is_playing_custom_nation = yes
+				OR = {
+					has_reform = draconic_tyranny
+					have_had_reform = draconic_tyranny
+				}
+			}
+			has_unlocked_government_reform = {
+				government_reform = draconic_tyranny
+			}
+		}
+	}
+	trigger = {
+		OR = {
+			tag = DRG
+			tag = DRV
+			AND = {
+				is_playing_custom_nation = yes
+				OR = {
+					hidden_trigger = {
+						has_reform = draconic_tyranny
+					}
+					have_had_reform = draconic_tyranny
+				}
+			}
+			has_unlocked_government_reform_tooltip = {
+				government_reform = draconic_tyranny
+			}
+		}
+	}
+	valid_for_nation_designer = yes
+	nation_designer_cost = 100
+	legacy_equivalent = prussian_monarchy_legacy
+
+	modifiers = {
+		war_exhaustion = -0.02
+		global_unrest = -1
+		global_autonomy = -0.1
+		max_absolutism = 40
+		manpower_in_accepted_culture_provinces = 0.2
+		manpower_recovery_speed = 0.1
+		monarch_diplomatic_power = 1
+		monarch_military_power = 1
+		monarch_admin_power = 1
+		may_recruit_female_generals = yes
+		monarch_lifespan = 8000
+		
+	}
+
+	conditional = {
+		allow = { has_dlc = "Rights of Man" }
+		militarised_society = yes
+	}
+}
+
+fading_tyranny = {
+	icon = "draconic_tyranny"
+	allow_normal_conversion = no
+	potential = {
+		OR = {
+			tag = DRG
+			AND = {
+				tag = DRG
+				NOT = { map_setup = map_setup_random }
+			}
+			AND = {
+				tag = DRV
+				NOT = { map_setup = map_setup_random }
+				OR = {
+					has_reform = draconic_tyranny
+					have_had_reform = draconic_tyranny
+					AND = {
+						is_hegemon_of_type = military_hegemon
+						development_in_provinces = {
+							value = 80
+							culture = darastrix
+						}
+					}
+				}
+			}
+			AND = {
+				is_playing_custom_nation = yes
+				OR = {
+					has_reform = draconic_tyranny
+					have_had_reform = draconic_tyranny
+				}
+			}
+			has_unlocked_government_reform = {
+				government_reform = draconic_tyranny
+			}
+		}
+	}
+	trigger = {
+		OR = {
+			tag = DRG
+			tag = DRV
+			AND = {
+				is_playing_custom_nation = yes
+				OR = {
+					hidden_trigger = {
+						has_reform = draconic_tyranny
+					}
+					have_had_reform = draconic_tyranny
+				}
+			}
+			has_unlocked_government_reform_tooltip = {
+				government_reform = draconic_tyranny
+			}
+		}
+	}
+	valid_for_nation_designer = yes
+	nation_designer_cost = -15
+	legacy_equivalent = prussian_monarchy_legacy
+
+	modifiers = {
+		global_autonomy = 0.1
+		max_absolutism = -10
+		monarch_diplomatic_power = 1
+		monarch_military_power = 1
+		monarch_admin_power = 1
+		manpower_in_accepted_culture_provinces = 0.1
+		global_manpower_modifier = -0.1
+		manpower_recovery_speed = -0.2
+		may_recruit_female_generals = yes
+		governing_capacity = -100
+		monarch_lifespan = 8000
+		
+	}
+
+	conditional = {
+		allow = { has_dlc = "Rights of Man" }
+		militarised_society = yes
+	}
+}

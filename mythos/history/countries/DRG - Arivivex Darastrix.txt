@@ -1,5 +1,5 @@
 government = monarchy
-add_government_reform = prussian_monarchy
+add_government_reform = fading_tyranny
 government_rank = 3
 primary_culture = darastrix
 religion = norse_pagan_reformed
@@ -37,6 +37,5 @@ capital = 2488
 		mil = 6
 		birth_date = 500.1.1
 	}
-	add_government_reform = prussian_monarchy
 	add_army_professionalism = 0.3
 }
