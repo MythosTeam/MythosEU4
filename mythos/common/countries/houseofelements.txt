@@ -1,0 +1,40 @@
+graphical_culture = northamericangfx
+
+color = { 171 0 14 }
+
+revolutionary colors = { 3 1 3 }
+
+historical_idea_groups = {
+	economic_ideas
+	quality_ideas
+	exploration_ideas
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	quantity_ideas
+	administrative_ideas
+}
+
+monarch names = {
+	Valdezza = -5
+	Ashaaq = -1
+	Corusa = -15
+	Saphroan = -10
+	Shale = -10
+	Jaitos = -15
+}
+
+ship_names = {
+}
+
+army_names = {
+	"Flaming Lash"
+	"Gushing Water"
+	"Stone Wall"
+	"Graceful Winds"
+	"Claws of $DYNASTY$"
+}
+
+fleet_names = {
+
+}
