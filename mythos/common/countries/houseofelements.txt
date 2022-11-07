@@ -1,3 +1,4 @@
+###Fire, Water, Wind, Earth
 graphical_culture = northamericangfx
 
 color = { 171 0 14 }
@@ -16,28 +17,35 @@ historical_idea_groups = {
 }
 
 monarch names = {
-	Valdezza = -5
-	Ashaaq = -1
-	Corusa = -15
-	Saphroan = -10
-	Shale = -10
-	Jaitos = -15
+	Valdezza -3
+	Ashaaq -2
+	Jaitos -5
+	Corusa = -10
+	Saphroan = -1
+	Shale = -1
 	Sailei = -15
-	Jella = -15
+	Jella = -5
+	Korra = -20
+	Ahkir = 10
 }
 
 ship_names = {
 }
 
 army_names = {
-	"Flaming Lash"
-	"Gushing Water"
-	"Stone Wall"
-	"Graceful Winds"
+	"Valdezza's Ire"
+	"Ashaaq's Ire"
+	"Jaitos' Fury"
+	"Corusa's Rage"
+	"Saphroan's Bulwark"
+	"Shale's Bulwark"
+	"Sailei's Rage"
+	"Jella's Fury"
 	"Claws of $DYNASTY$"
 }
 
 fleet_names = {
+	"Korra's Grace"
 	"$DYNASTY$ Gold Bringers"
 	"Fleet of $PROVINCE$"
 }

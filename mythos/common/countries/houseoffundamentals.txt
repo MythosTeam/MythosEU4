@@ -1,3 +1,4 @@
+###Nature, Electric, Ice, Arcane
 graphical_culture = northamericangfx
 
 color = { 175 120 235 }
@@ -16,13 +17,13 @@ historical_idea_groups = {
 }
 
 monarch names = {
-	Glacius = 20
-	Pellus = -5
-	Derrow = 5
-	Archron = 15
-	Aev = 10
-	Dweur = 5
-	Tiyha = -10 
+	Derrow
+	Mordox
+	Drakis
+	Matsu
+	Glacius
+	Gabon
+	Dweur
 }
 
 ship_names = {
