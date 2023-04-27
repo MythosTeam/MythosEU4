@@ -157,3 +157,7 @@ fading_tyranny = {
 		militarised_society = yes
 	}
 }
+
+Terhana_Gov_Type = {
+	
+}
